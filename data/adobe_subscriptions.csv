@@ -1,0 +1,101 @@
+customer_id,customer_name,reseller_id,reseller_name,subscription_id,product,seats,seat_utilization,churn_propensity,days_to_renewal,renewal_date,flex_discount_pct,annual_value_usd
+CUST-0001,Customer 001,RES-300,Vertex Systems,SUB-10001,Acrobat Pro,10,0.84,0.31,10,2026-11-28,5,2400
+CUST-0002,Customer 002,RES-300,Vertex Systems,SUB-10002,Creative Cloud,10,0.75,0.13,120,2027-03-18,0,1200
+CUST-0003,Customer 003,RES-300,Vertex Systems,SUB-10003,FrameMaker,150,0.52,0.65,5,2026-11-23,15,18000
+CUST-0004,Customer 004,RES-300,Vertex Systems,SUB-10004,Acrobat Sign,10,0.85,0.24,30,2026-12-18,15,1800
+CUST-0005,Customer 005,RES-100,Northstar Solutions,SUB-10005,Acrobat Sign,50,0.46,0.42,20,2026-12-08,10,9000
+CUST-0006,Customer 006,RES-100,Northstar Solutions,SUB-10006,Acrobat Sign,150,0.47,0.88,90,2027-02-16,0,36000
+CUST-0007,Customer 007,RES-300,Vertex Systems,SUB-10007,Acrobat Pro,150,0.51,0.16,45,2027-01-02,5,27000
+CUST-0008,Customer 008,RES-100,Northstar Solutions,SUB-10008,Acrobat Sign,100,0.56,0.64,10,2026-11-28,10,12000
+CUST-0009,Customer 009,RES-200,BluePeak Technologies,SUB-10009,Creative Cloud,200,0.56,0.9,20,2026-12-08,0,48000
+CUST-0010,Customer 010,RES-300,Vertex Systems,SUB-10010,Acrobat Sign,25,0.67,0.33,20,2026-12-08,5,6000
+CUST-0011,Customer 011,RES-100,Northstar Solutions,SUB-10011,Acrobat Sign,10,0.87,0.44,20,2026-12-08,0,1200
+CUST-0012,Customer 012,RES-100,Northstar Solutions,SUB-10012,Creative Cloud,100,0.92,0.65,90,2027-02-16,5,18000
+CUST-0013,Customer 013,RES-100,Northstar Solutions,SUB-10013,Creative Cloud,150,0.56,0.6,120,2027-03-18,15,27000
+CUST-0014,Customer 014,RES-100,Northstar Solutions,SUB-10014,Creative Cloud,100,0.45,0.14,120,2027-03-18,0,12000
+CUST-0015,Customer 015,RES-300,Vertex Systems,SUB-10015,Acrobat Sign,150,0.44,0.42,60,2027-01-17,15,36000
+CUST-0016,Customer 016,RES-300,Vertex Systems,SUB-10016,Acrobat Sign,200,0.83,0.68,5,2026-11-23,10,48000
+CUST-0017,Customer 017,RES-100,Northstar Solutions,SUB-10017,Creative Cloud,100,0.49,0.1,30,2026-12-18,10,24000
+CUST-0018,Customer 018,RES-300,Vertex Systems,SUB-10018,Acrobat Sign,200,0.58,0.64,10,2026-11-28,5,24000
+CUST-0019,Customer 019,RES-100,Northstar Solutions,SUB-10019,Acrobat Pro,150,0.94,0.61,120,2027-03-18,15,18000
+CUST-0020,Customer 020,RES-200,BluePeak Technologies,SUB-10020,FrameMaker,25,0.43,0.85,30,2026-12-18,0,3000
+CUST-0021,Customer 021,RES-100,Northstar Solutions,SUB-10021,FrameMaker,25,0.48,0.5,120,2027-03-18,5,4500
+CUST-0022,Customer 022,RES-100,Northstar Solutions,SUB-10022,Acrobat Sign,200,0.81,0.71,120,2027-03-18,15,48000
+CUST-0023,Customer 023,RES-200,BluePeak Technologies,SUB-10023,Creative Cloud,100,0.47,0.29,120,2027-03-18,10,12000
+CUST-0024,Customer 024,RES-300,Vertex Systems,SUB-10024,Acrobat Pro,10,0.44,0.64,20,2026-12-08,5,1200
+CUST-0025,Customer 025,RES-200,BluePeak Technologies,SUB-10025,Creative Cloud,150,0.54,0.67,10,2026-11-28,5,36000
+CUST-0026,Customer 026,RES-300,Vertex Systems,SUB-10026,Acrobat Pro,25,0.86,0.79,90,2027-02-16,5,3000
+CUST-0027,Customer 027,RES-300,Vertex Systems,SUB-10027,Acrobat Pro,50,0.65,0.5,60,2027-01-17,0,12000
+CUST-0028,Customer 028,RES-100,Northstar Solutions,SUB-10028,Creative Cloud,200,0.6,0.83,60,2027-01-17,5,24000
+CUST-0029,Customer 029,RES-300,Vertex Systems,SUB-10029,FrameMaker,25,0.65,0.34,90,2027-02-16,5,3000
+CUST-0030,Customer 030,RES-300,Vertex Systems,SUB-10030,Creative Cloud,10,0.78,0.56,10,2026-11-28,0,1200
+CUST-0031,Customer 031,RES-100,Northstar Solutions,SUB-10031,FrameMaker,100,0.68,0.83,60,2027-01-17,0,12000
+CUST-0032,Customer 032,RES-100,Northstar Solutions,SUB-10032,FrameMaker,50,0.95,0.77,60,2027-01-17,10,9000
+CUST-0033,Customer 033,RES-100,Northstar Solutions,SUB-10033,Acrobat Sign,50,0.53,0.15,20,2026-12-08,0,12000
+CUST-0034,Customer 034,RES-100,Northstar Solutions,SUB-10034,Acrobat Pro,150,0.68,0.88,5,2026-11-23,5,18000
+CUST-0035,Customer 035,RES-100,Northstar Solutions,SUB-10035,Creative Cloud,150,0.44,0.83,10,2026-11-28,15,18000
+CUST-0036,Customer 036,RES-300,Vertex Systems,SUB-10036,Creative Cloud,150,0.45,0.66,5,2026-11-23,10,27000
+CUST-0037,Customer 037,RES-300,Vertex Systems,SUB-10037,Acrobat Sign,25,0.56,0.21,45,2027-01-02,10,4500
+CUST-0038,Customer 038,RES-100,Northstar Solutions,SUB-10038,Creative Cloud,100,0.77,0.58,5,2026-11-23,0,12000
+CUST-0039,Customer 039,RES-300,Vertex Systems,SUB-10039,Acrobat Sign,25,0.95,0.85,30,2026-12-18,5,4500
+CUST-0040,Customer 040,RES-100,Northstar Solutions,SUB-10040,Acrobat Sign,150,0.82,0.62,90,2027-02-16,0,36000
+CUST-0041,Customer 041,RES-300,Vertex Systems,SUB-10041,Acrobat Sign,25,0.56,0.86,10,2026-11-28,5,4500
+CUST-0042,Customer 042,RES-300,Vertex Systems,SUB-10042,FrameMaker,200,0.6,0.68,20,2026-12-08,10,48000
+CUST-0043,Customer 043,RES-200,BluePeak Technologies,SUB-10043,Acrobat Sign,10,0.77,0.8,5,2026-11-23,0,1200
+CUST-0044,Customer 044,RES-100,Northstar Solutions,SUB-10044,Acrobat Pro,25,0.84,0.57,30,2026-12-18,15,6000
+CUST-0045,Customer 045,RES-100,Northstar Solutions,SUB-10045,Creative Cloud,200,0.93,0.56,10,2026-11-28,10,48000
+CUST-0046,Customer 046,RES-200,BluePeak Technologies,SUB-10046,Creative Cloud,10,0.58,0.86,15,2026-12-03,0,1800
+CUST-0047,Customer 047,RES-300,Vertex Systems,SUB-10047,Creative Cloud,200,0.46,0.76,20,2026-12-08,15,48000
+CUST-0048,Customer 048,RES-100,Northstar Solutions,SUB-10048,Creative Cloud,25,0.92,0.12,15,2026-12-03,10,4500
+CUST-0049,Customer 049,RES-200,BluePeak Technologies,SUB-10049,Creative Cloud,200,0.46,0.84,15,2026-12-03,15,24000
+CUST-0050,Customer 050,RES-200,BluePeak Technologies,SUB-10050,Creative Cloud,50,0.88,0.84,45,2027-01-02,5,6000
+CUST-0051,Customer 051,RES-200,BluePeak Technologies,SUB-10051,FrameMaker,50,0.91,0.92,45,2027-01-02,10,9000
+CUST-0052,Customer 052,RES-300,Vertex Systems,SUB-10052,Acrobat Sign,50,0.95,0.2,120,2027-03-18,10,6000
+CUST-0053,Customer 053,RES-100,Northstar Solutions,SUB-10053,Acrobat Pro,150,0.66,0.72,10,2026-11-28,10,27000
+CUST-0054,Customer 054,RES-200,BluePeak Technologies,SUB-10054,FrameMaker,50,0.43,0.47,20,2026-12-08,5,9000
+CUST-0055,Customer 055,RES-100,Northstar Solutions,SUB-10055,Acrobat Sign,150,0.59,0.82,45,2027-01-02,10,36000
+CUST-0056,Customer 056,RES-300,Vertex Systems,SUB-10056,FrameMaker,50,0.64,0.35,60,2027-01-17,5,6000
+CUST-0057,Customer 057,RES-300,Vertex Systems,SUB-10057,Acrobat Pro,200,0.84,0.25,60,2027-01-17,10,36000
+CUST-0058,Customer 058,RES-200,BluePeak Technologies,SUB-10058,FrameMaker,25,0.65,0.59,30,2026-12-18,10,4500
+CUST-0059,Customer 059,RES-200,BluePeak Technologies,SUB-10059,Acrobat Pro,150,0.68,0.87,20,2026-12-08,5,36000
+CUST-0060,Customer 060,RES-200,BluePeak Technologies,SUB-10060,Acrobat Sign,200,0.77,0.38,120,2027-03-18,5,48000
+CUST-0061,Customer 061,RES-100,Northstar Solutions,SUB-10061,Acrobat Pro,25,0.41,0.31,20,2026-12-08,15,6000
+CUST-0062,Customer 062,RES-200,BluePeak Technologies,SUB-10062,FrameMaker,200,0.74,0.71,60,2027-01-17,15,36000
+CUST-0063,Customer 063,RES-100,Northstar Solutions,SUB-10063,Creative Cloud,200,0.81,0.86,15,2026-12-03,0,36000
+CUST-0064,Customer 064,RES-100,Northstar Solutions,SUB-10064,Creative Cloud,100,0.43,0.31,120,2027-03-18,0,18000
+CUST-0065,Customer 065,RES-200,BluePeak Technologies,SUB-10065,FrameMaker,150,0.75,0.91,120,2027-03-18,15,36000
+CUST-0066,Customer 066,RES-300,Vertex Systems,SUB-10066,Acrobat Sign,25,0.84,0.5,90,2027-02-16,10,3000
+CUST-0067,Customer 067,RES-300,Vertex Systems,SUB-10067,Acrobat Sign,200,0.54,0.47,90,2027-02-16,10,24000
+CUST-0068,Customer 068,RES-200,BluePeak Technologies,SUB-10068,Creative Cloud,150,0.45,0.23,45,2027-01-02,15,36000
+CUST-0069,Customer 069,RES-300,Vertex Systems,SUB-10069,Acrobat Pro,10,0.64,0.38,20,2026-12-08,15,1800
+CUST-0070,Customer 070,RES-100,Northstar Solutions,SUB-10070,FrameMaker,100,0.93,0.6,60,2027-01-17,0,24000
+CUST-0071,Customer 071,RES-200,BluePeak Technologies,SUB-10071,Creative Cloud,50,0.58,0.43,5,2026-11-23,15,12000
+CUST-0072,Customer 072,RES-200,BluePeak Technologies,SUB-10072,FrameMaker,50,0.66,0.12,20,2026-12-08,10,12000
+CUST-0073,Customer 073,RES-300,Vertex Systems,SUB-10073,Acrobat Pro,100,0.94,0.93,15,2026-12-03,0,18000
+CUST-0074,Customer 074,RES-100,Northstar Solutions,SUB-10074,Acrobat Sign,25,0.91,0.25,60,2027-01-17,10,4500
+CUST-0075,Customer 075,RES-100,Northstar Solutions,SUB-10075,Acrobat Sign,50,0.6,0.85,90,2027-02-16,10,9000
+CUST-0076,Customer 076,RES-100,Northstar Solutions,SUB-10076,Acrobat Pro,10,0.84,0.14,90,2027-02-16,10,1200
+CUST-0077,Customer 077,RES-300,Vertex Systems,SUB-10077,Creative Cloud,10,0.96,0.27,5,2026-11-23,0,2400
+CUST-0078,Customer 078,RES-100,Northstar Solutions,SUB-10078,Acrobat Sign,100,0.79,0.58,15,2026-12-03,5,18000
+CUST-0079,Customer 079,RES-200,BluePeak Technologies,SUB-10079,Acrobat Sign,150,0.76,0.74,15,2026-12-03,0,18000
+CUST-0080,Customer 080,RES-100,Northstar Solutions,SUB-10080,Creative Cloud,50,0.74,0.87,5,2026-11-23,15,9000
+CUST-0081,Customer 081,RES-100,Northstar Solutions,SUB-10081,Acrobat Pro,10,0.81,0.36,20,2026-12-08,0,2400
+CUST-0082,Customer 082,RES-200,BluePeak Technologies,SUB-10082,FrameMaker,100,0.79,0.16,120,2027-03-18,10,12000
+CUST-0083,Customer 083,RES-200,BluePeak Technologies,SUB-10083,Creative Cloud,100,0.97,0.64,10,2026-11-28,15,24000
+CUST-0084,Customer 084,RES-200,BluePeak Technologies,SUB-10084,FrameMaker,200,0.71,0.65,15,2026-12-03,15,36000
+CUST-0085,Customer 085,RES-300,Vertex Systems,SUB-10085,FrameMaker,50,0.9,0.81,30,2026-12-18,0,9000
+CUST-0086,Customer 086,RES-100,Northstar Solutions,SUB-10086,Acrobat Sign,150,0.76,0.42,90,2027-02-16,0,27000
+CUST-0087,Customer 087,RES-100,Northstar Solutions,SUB-10087,Acrobat Sign,25,0.61,0.32,90,2027-02-16,10,6000
+CUST-0088,Customer 088,RES-300,Vertex Systems,SUB-10088,Creative Cloud,150,0.96,0.17,5,2026-11-23,15,27000
+CUST-0089,Customer 089,RES-300,Vertex Systems,SUB-10089,Acrobat Sign,200,0.82,0.48,90,2027-02-16,0,24000
+CUST-0090,Customer 090,RES-100,Northstar Solutions,SUB-10090,Acrobat Sign,200,0.54,0.66,60,2027-01-17,10,36000
+CUST-0091,Customer 091,RES-200,BluePeak Technologies,SUB-10091,Creative Cloud,50,0.61,0.49,120,2027-03-18,10,9000
+CUST-0092,Customer 092,RES-100,Northstar Solutions,SUB-10092,Creative Cloud,50,0.47,0.56,20,2026-12-08,5,6000
+CUST-0093,Customer 093,RES-300,Vertex Systems,SUB-10093,Creative Cloud,50,0.83,0.93,90,2027-02-16,10,6000
+CUST-0094,Customer 094,RES-200,BluePeak Technologies,SUB-10094,Acrobat Pro,50,0.51,0.11,20,2026-12-08,5,9000
+CUST-0095,Customer 095,RES-100,Northstar Solutions,SUB-10095,Acrobat Pro,50,0.81,0.21,120,2027-03-18,15,6000
+CUST-0096,Customer 096,RES-300,Vertex Systems,SUB-10096,FrameMaker,100,0.68,0.39,30,2026-12-18,0,18000
+CUST-0097,Customer 097,RES-100,Northstar Solutions,SUB-10097,Creative Cloud,100,0.69,0.59,10,2026-11-28,0,12000
+CUST-0098,Customer 098,RES-300,Vertex Systems,SUB-10098,Creative Cloud,10,0.99,0.2,30,2026-12-18,15,2400
+CUST-0099,Customer 099,RES-300,Vertex Systems,SUB-10099,Acrobat Pro,100,0.94,0.35,60,2027-01-17,15,18000
+CUST-0100,Customer 100,RES-300,Vertex Systems,SUB-10100,Creative Cloud,25,0.77,0.32,10,2026-11-28,0,3000
